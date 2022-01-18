@@ -3,7 +3,7 @@ import {RarityTypes} from './utils';
 export default function Rarity({rarity}: {rarity: RarityTypes}) {
   const rarityMap = {
     Common: 'gray',
-    Rare: 'purple',
+    Rare: '#cd11cd',
   };
 
   return (
