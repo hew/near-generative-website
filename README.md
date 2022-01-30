@@ -1,3 +1,3 @@
-# NFT Website
+# NEAR NFT Generative Website
 
-https://nft-website.tahini.dev
+near-nft-generative-website.netlify.com
